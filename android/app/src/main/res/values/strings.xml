@@ -1,0 +1,6 @@
+<resources>
+	<string moduleConfig="true" name="reactNativeCodePush_androidDeploymentKey">M3u4Ga6WjbRHg7s0w03A-izQW2VTf46e7f6c-31fb-4de5-9dbc-74d5f0a4e4dc</string>
+    <string name="app_name">Rethink</string>
+    <string name="facebook_app_id">130597280888640</string>
+    <string name="kakao_app_key">2bc21579fa2392d09e3aadc82b3206d0</string>
+</resources>

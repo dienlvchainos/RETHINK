@@ -1,0 +1,699 @@
+-- Merging decision tree log ---
+permission#com.rethink.permission.C2D_MESSAGE
+INJECTED from /Users/dienlee/Documents/rethink-app/android/app/src/main/AndroidManifest.xml:14:5-16:47
+	android:protectionLevel
+		ADDED from /Users/dienlee/Documents/rethink-app/android/app/src/main/AndroidManifest.xml:16:9-44
+	android:name
+		INJECTED from /Users/dienlee/Documents/rethink-app/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/dienlee/Documents/rethink-app/android/app/src/main/AndroidManifest.xml:15:9-63
+uses-permission#com.rethink.permission.C2D_MESSAGE
+INJECTED from /Users/dienlee/Documents/rethink-app/android/app/src/main/AndroidManifest.xml:18:5-79
+	android:name
+		INJECTED from /Users/dienlee/Documents/rethink-app/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/dienlee/Documents/rethink-app/android/app/src/main/AndroidManifest.xml:18:22-76
+category#com.rethink
+INJECTED from /Users/dienlee/Documents/rethink-app/android/app/src/main/AndroidManifest.xml:45:17-61
+	android:name
+		INJECTED from /Users/dienlee/Documents/rethink-app/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/dienlee/Documents/rethink-app/android/app/src/main/AndroidManifest.xml:45:27-58
+provider#android.support.v4.content.FileProvider
+INJECTED from /Users/dienlee/Documents/rethink-app/android/app/src/main/AndroidManifest.xml:104:9-114:20
+MERGED from [:react-native-image-crop-picker] /Users/dienlee/Documents/rethink-app/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:9-21:20
+MERGED from [:react-native-image-crop-picker] /Users/dienlee/Documents/rethink-app/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:9-21:20
+	android:grantUriPermissions
+		ADDED from /Users/dienlee/Documents/rethink-app/android/app/src/main/AndroidManifest.xml:108:13-47
+	android:authorities
+		INJECTED from /Users/dienlee/Documents/rethink-app/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/dienlee/Documents/rethink-app/android/app/src/main/AndroidManifest.xml:106:13-60
+		REJECTED from [:react-native-image-crop-picker] /Users/dienlee/Documents/rethink-app/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:13-60
+	android:exported
+		ADDED from /Users/dienlee/Documents/rethink-app/android/app/src/main/AndroidManifest.xml:107:13-37
+	tools:replace
+		ADDED from /Users/dienlee/Documents/rethink-app/android/app/src/main/AndroidManifest.xml:109:13-48
+	android:name
+		ADDED from /Users/dienlee/Documents/rethink-app/android/app/src/main/AndroidManifest.xml:105:13-67
+manifest
+ADDED from /Users/dienlee/Documents/rethink-app/android/app/src/main/AndroidManifest.xml:1:1-119:12
+INJECTED from /Users/dienlee/Documents/rethink-app/android/app/src/main/AndroidManifest.xml:1:1-119:12
+INJECTED from /Users/dienlee/Documents/rethink-app/android/app/src/main/AndroidManifest.xml:1:1-119:12
+INJECTED from /Users/dienlee/Documents/rethink-app/android/app/src/main/AndroidManifest.xml:1:1-119:12
+MERGED from [:react-native-image-crop-picker] /Users/dienlee/Documents/rethink-app/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-28:12
+MERGED from [:react-native-wheel-picker-android] /Users/dienlee/Documents/rethink-app/node_modules/@delightfulstudio/react-native-wheel-picker-android/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-code-push] /Users/dienlee/Documents/rethink-app/node_modules/react-native-code-push/android/app/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-17:12
+MERGED from [:react-native-svg] /Users/dienlee/Documents/rethink-app/node_modules/react-native-svg/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-push-notification] /Users/dienlee/Documents/rethink-app/node_modules/react-native-push-notification/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-gcm:16.1.0] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/play-services-gcm-16.1.0.aar/5697c66c2669c7a464606d2ab8ddbf2a/AndroidManifest.xml:17:1-28:12
+MERGED from [:react-native-background-timer] /Users/dienlee/Documents/rethink-app/node_modules/react-native-background-timer/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-13:12
+MERGED from [:react-native-share] /Users/dienlee/Documents/rethink-app/node_modules/react-native-share/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-13:12
+MERGED from [:react-native-view-shot] /Users/dienlee/Documents/rethink-app/node_modules/react-native-view-shot/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-kakao-logins] /Users/dienlee/Documents/rethink-app/node_modules/react-native-kakao-logins/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-31:12
+MERGED from [:react-native-fbsdk] /Users/dienlee/Documents/rethink-app/node_modules/react-native-fbsdk/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:21:1-30:12
+MERGED from [:react-native-vector-icons] /Users/dienlee/Documents/rethink-app/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.55.4] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/6ad1b4739a3ce13036809805e8ee8ddb/AndroidManifest.xml:2:1-15:12
+MERGED from [com.github.yalantis:ucrop:2.2.2-native] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.2-native.aar/1f39ddd63c713bcd08a60b66bf657ebe/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.android:facebook-android-sdk:4.34.0] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.34.0.aar/0aebdb4cb82df9de2091a3922e994cdb/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-login:4.34.0] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/facebook-login-4.34.0.aar/1efe53779c18fb02e350ea6747644c15/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-share:4.34.0] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/facebook-share-4.34.0.aar/000135874fb82f2b58a7b599523092a2/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-common:4.34.0] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/facebook-common-4.34.0.aar/d5970100ecc9b6ceefcba764442b1c87/AndroidManifest.xml:21:1-37:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/927b9839c34bd0ab1eb19538687dc919/AndroidManifest.xml:17:1-22:12
+MERGED from [cn.aigestudio.wheelpicker:WheelPicker:1.1.2] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/WheelPicker-1.1.2.aar/1af789ede53ff8fa19b5fc63423f6d99/AndroidManifest.xml:2:1-12:12
+MERGED from [me.leolin:ShortcutBadger:1.1.8] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.8.aar/8d7458619b49c45245ab194249bea1f4/AndroidManifest.xml:2:1-41:12
+MERGED from [com.google.firebase:firebase-messaging:18.0.0] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/firebase-messaging-18.0.0.aar/2b3464c9de537ebf3a5f1bb81b0514f7/AndroidManifest.xml:17:1-37:12
+MERGED from [com.google.android.gms:play-services-iid:16.0.1] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/play-services-iid-16.0.1.aar/366218fc74909300c3b943956ed8114a/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.firebase:firebase-iid:18.0.0] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/firebase-iid-18.0.0.aar/6116818fe3c911535f7ccde5e9358905/AndroidManifest.xml:17:1-47:12
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/firebase-iid-interop-16.0.1.aar/7907d904dd9d30d6a8d22cd810022ed9/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/aa06f4065a03ba0f16f0a190d8fb1b62/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/play-services-stats-16.0.1.aar/8140556ed9b49070024a5239cd6f555c/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-common:17.0.0] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/firebase-common-17.0.0.aar/79eecc2b993037f0831a5dd4b9ef6642/AndroidManifest.xml:2:1-19:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/e7b5bbeb89d54f5be56893b6653c63aa/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-17.0.1.aar/68926b7f8e90c2d5320cb990f3f84ee1/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/b41c671c45b95c8ee958639062648ece/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:27.1.1] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/f6745063fbb6c68dceff74b33ce8457a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.kakao.sdk:usermgmt:1.15.1] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/usermgmt-1.15.1.aar/d704a4094bfacbc647f431d44608450c/AndroidManifest.xml:2:1-14:12
+MERGED from [com.kakao.sdk:auth:1.15.1] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/auth-1.15.1.aar/0ae18450017fd9a7f9bb0ec19dde47f9/AndroidManifest.xml:2:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/320f8934a9521835aa1cf40bd60675c0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/701ee1e21bb52afdef9ff77897c4cd5c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/83a6101bc93c5ca6789cc4fd042cae5b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.android:facebook-places:4.34.0] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/facebook-places-4.34.0.aar/a25af5f68b1e52f305090b96c5176d39/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-applinks:4.34.0] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/facebook-applinks-4.34.0.aar/07deab82f802b27b6307bbea8a782527/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-messenger:4.34.0] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.34.0.aar/133ae7683ad4dd97173851a0a9faf197/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-marketing:4.34.0] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/facebook-marketing-4.34.0.aar/59b78ff6df40d6c6ca68ca7df86c9945/AndroidManifest.xml:21:1-35:12
+MERGED from [com.facebook.android:facebook-core:4.34.0] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/facebook-core-4.34.0.aar/0391248b33729968deccdd37a4c14178/AndroidManifest.xml:21:1-53:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/27ca049e199a53951474eda75da27c00/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/86a9690163329c3fa87ecd67cabd23cb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/64b8363d349a384d389d762ed6793d33/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customtabs:27.0.2] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/customtabs-27.0.2.aar/630a8130da7f19501b6bc79132e64b57/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/91982462854dbf84e3ff1e05998a2aff/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.0.2] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.0.2.aar/bbdbae46bbbe742fc1b294ad12e881d0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.kakao.sdk:network:1.15.1] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/network-1.15.1.aar/a2e4bb198da55fcd52035bfdb54acbab/AndroidManifest.xml:2:1-11:12
+MERGED from [com.kakao.sdk:common:1.15.1] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/common-1.15.1.aar/e44611190febddb829a94bf7faa1b752/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/ea852e11cca2a0b07cb12ae05f930c6f/AndroidManifest.xml:10:1-18:12
+MERGED from [com.facebook.fresco:fresco:1.3.0] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/fresco-1.3.0.aar/625a8643e98912b294bfc37a3fbabf12/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.3.0.aar/e14f13904306f4330b6a8ca3c6e8d83b/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/9a8d4b6b639573eba9d9811f61928dbd/AndroidManifest.xml:1:1-4:12
+MERGED from [org.webkit:android-jsc:r174650] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/3a2e2b8254218ac6348b57bd18e9b90f/AndroidManifest.xml:1:1-3:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/459f8f5504fe2d569e79380fe610bd44/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/afade1b85764829c2bff596c762cf042/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:drawee:1.3.0] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/drawee-1.3.0.aar/efe0b16f00518ce42c71cf1d8d1a48d5/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.3.0.aar/b17d7b50521509f62760596d651275fb/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.3.0.aar/901a06f7029c2774dfda8cd83f8c9b20/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fbcore:1.3.0] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/fbcore-1.3.0.aar/96942aae9f384aa14a9121bd770fa864/AndroidManifest.xml:2:1-9:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/eb18e8cf68eedbe509341fa3b36dfb58/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/f68833ee5d43c0335db25d8215a8849d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.kakao.sdk:util:1.15.1] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/util-1.15.1.aar/153472fd439b9bb85e6bb4de66a83467/AndroidManifest.xml:2:1-14:12
+INJECTED from /Users/dienlee/Documents/rethink-app/android/app/src/main/AndroidManifest.xml:1:1-119:12
+INJECTED from /Users/dienlee/Documents/rethink-app/android/app/src/main/AndroidManifest.xml:1:1-119:12
+INJECTED from /Users/dienlee/Documents/rethink-app/android/app/src/main/AndroidManifest.xml:1:1-119:12
+	package
+		ADDED from /Users/dienlee/Documents/rethink-app/android/app/src/main/AndroidManifest.xml:2:5-26
+		INJECTED from /Users/dienlee/Documents/rethink-app/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/dienlee/Documents/rethink-app/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/dienlee/Documents/rethink-app/android/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /Users/dienlee/Documents/rethink-app/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/dienlee/Documents/rethink-app/android/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/dienlee/Documents/rethink-app/android/app/src/main/AndroidManifest.xml:3:5-51
+	xmlns:android
+		ADDED from /Users/dienlee/Documents/rethink-app/android/app/src/main/AndroidManifest.xml:1:11-69
+	android:versionCode
+		ADDED from /Users/dienlee/Documents/rethink-app/android/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/dienlee/Documents/rethink-app/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/dienlee/Documents/rethink-app/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/dienlee/Documents/rethink-app/android/app/src/main/AndroidManifest.xml:7:5-67
+MERGED from [:react-native-code-push] /Users/dienlee/Documents/rethink-app/node_modules/react-native-code-push/android/app/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-67
+MERGED from [:react-native-code-push] /Users/dienlee/Documents/rethink-app/node_modules/react-native-code-push/android/app/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-gcm:16.1.0] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/play-services-gcm-16.1.0.aar/5697c66c2669c7a464606d2ab8ddbf2a/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-gcm:16.1.0] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/play-services-gcm-16.1.0.aar/5697c66c2669c7a464606d2ab8ddbf2a/AndroidManifest.xml:24:5-67
+MERGED from [:react-native-kakao-logins] /Users/dienlee/Documents/rethink-app/node_modules/react-native-kakao-logins/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-67
+MERGED from [:react-native-kakao-logins] /Users/dienlee/Documents/rethink-app/node_modules/react-native-kakao-logins/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-iid:16.0.1] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/play-services-iid-16.0.1.aar/366218fc74909300c3b943956ed8114a/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-iid:16.0.1] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/play-services-iid-16.0.1.aar/366218fc74909300c3b943956ed8114a/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-iid:18.0.0] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/firebase-iid-18.0.0.aar/6116818fe3c911535f7ccde5e9358905/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:18.0.0] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/firebase-iid-18.0.0.aar/6116818fe3c911535f7ccde5e9358905/AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from /Users/dienlee/Documents/rethink-app/android/app/src/main/AndroidManifest.xml:7:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/dienlee/Documents/rethink-app/android/app/src/main/AndroidManifest.xml:8:5-78
+MERGED from [com.facebook.react:react-native:0.55.4] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/6ad1b4739a3ce13036809805e8ee8ddb/AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.55.4] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/6ad1b4739a3ce13036809805e8ee8ddb/AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from /Users/dienlee/Documents/rethink-app/android/app/src/main/AndroidManifest.xml:8:22-75
+uses-permission#android.permission.CAMERA
+ADDED from /Users/dienlee/Documents/rethink-app/android/app/src/main/AndroidManifest.xml:9:5-65
+	android:name
+		ADDED from /Users/dienlee/Documents/rethink-app/android/app/src/main/AndroidManifest.xml:9:22-62
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/dienlee/Documents/rethink-app/android/app/src/main/AndroidManifest.xml:10:5-81
+MERGED from [:react-native-image-crop-picker] /Users/dienlee/Documents/rethink-app/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:10:5-81
+MERGED from [:react-native-image-crop-picker] /Users/dienlee/Documents/rethink-app/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:10:5-81
+MERGED from [:react-native-share] /Users/dienlee/Documents/rethink-app/node_modules/react-native-share/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-81
+MERGED from [:react-native-share] /Users/dienlee/Documents/rethink-app/node_modules/react-native-share/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from /Users/dienlee/Documents/rethink-app/android/app/src/main/AndroidManifest.xml:10:22-78
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /Users/dienlee/Documents/rethink-app/android/app/src/main/AndroidManifest.xml:13:5-68
+MERGED from [:react-native-background-timer] /Users/dienlee/Documents/rethink-app/node_modules/react-native-background-timer/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-68
+MERGED from [:react-native-background-timer] /Users/dienlee/Documents/rethink-app/node_modules/react-native-background-timer/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-68
+MERGED from [com.google.firebase:firebase-iid:18.0.0] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/firebase-iid-18.0.0.aar/6116818fe3c911535f7ccde5e9358905/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:18.0.0] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/firebase-iid-18.0.0.aar/6116818fe3c911535f7ccde5e9358905/AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from /Users/dienlee/Documents/rethink-app/android/app/src/main/AndroidManifest.xml:13:22-65
+uses-permission#android.permission.VIBRATE
+ADDED from /Users/dienlee/Documents/rethink-app/android/app/src/main/AndroidManifest.xml:19:5-66
+	android:name
+		ADDED from /Users/dienlee/Documents/rethink-app/android/app/src/main/AndroidManifest.xml:19:22-63
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from /Users/dienlee/Documents/rethink-app/android/app/src/main/AndroidManifest.xml:20:5-81
+	android:name
+		ADDED from /Users/dienlee/Documents/rethink-app/android/app/src/main/AndroidManifest.xml:20:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/dienlee/Documents/rethink-app/android/app/src/main/AndroidManifest.xml:21:5-79
+	android:name
+		ADDED from /Users/dienlee/Documents/rethink-app/android/app/src/main/AndroidManifest.xml:21:22-76
+application
+ADDED from /Users/dienlee/Documents/rethink-app/android/app/src/main/AndroidManifest.xml:23:5-117:19
+MERGED from [:react-native-image-crop-picker] /Users/dienlee/Documents/rethink-app/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-26:19
+MERGED from [:react-native-image-crop-picker] /Users/dienlee/Documents/rethink-app/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-26:19
+MERGED from [:react-native-code-push] /Users/dienlee/Documents/rethink-app/node_modules/react-native-code-push/android/app/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:5-15:19
+MERGED from [:react-native-code-push] /Users/dienlee/Documents/rethink-app/node_modules/react-native-code-push/android/app/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:5-15:19
+MERGED from [com.google.android.gms:play-services-gcm:16.1.0] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/play-services-gcm-16.1.0.aar/5697c66c2669c7a464606d2ab8ddbf2a/AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-gcm:16.1.0] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/play-services-gcm-16.1.0.aar/5697c66c2669c7a464606d2ab8ddbf2a/AndroidManifest.xml:26:5-20
+MERGED from [:react-native-kakao-logins] /Users/dienlee/Documents/rethink-app/node_modules/react-native-kakao-logins/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:5-29:19
+MERGED from [:react-native-kakao-logins] /Users/dienlee/Documents/rethink-app/node_modules/react-native-kakao-logins/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:5-29:19
+MERGED from [:react-native-fbsdk] /Users/dienlee/Documents/rethink-app/node_modules/react-native-fbsdk/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:28:5-20
+MERGED from [:react-native-fbsdk] /Users/dienlee/Documents/rethink-app/node_modules/react-native-fbsdk/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:28:5-20
+MERGED from [com.facebook.react:react-native:0.55.4] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/6ad1b4739a3ce13036809805e8ee8ddb/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.55.4] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/6ad1b4739a3ce13036809805e8ee8ddb/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.android:facebook-android-sdk:4.34.0] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.34.0.aar/0aebdb4cb82df9de2091a3922e994cdb/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-android-sdk:4.34.0] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.34.0.aar/0aebdb4cb82df9de2091a3922e994cdb/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-login:4.34.0] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/facebook-login-4.34.0.aar/1efe53779c18fb02e350ea6747644c15/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-login:4.34.0] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/facebook-login-4.34.0.aar/1efe53779c18fb02e350ea6747644c15/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-share:4.34.0] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/facebook-share-4.34.0.aar/000135874fb82f2b58a7b599523092a2/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-share:4.34.0] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/facebook-share-4.34.0.aar/000135874fb82f2b58a7b599523092a2/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-common:4.34.0] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/facebook-common-4.34.0.aar/d5970100ecc9b6ceefcba764442b1c87/AndroidManifest.xml:28:5-35:19
+MERGED from [com.facebook.android:facebook-common:4.34.0] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/facebook-common-4.34.0.aar/d5970100ecc9b6ceefcba764442b1c87/AndroidManifest.xml:28:5-35:19
+MERGED from [com.google.firebase:firebase-messaging:18.0.0] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/firebase-messaging-18.0.0.aar/2b3464c9de537ebf3a5f1bb81b0514f7/AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.firebase:firebase-messaging:18.0.0] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/firebase-messaging-18.0.0.aar/2b3464c9de537ebf3a5f1bb81b0514f7/AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.android.gms:play-services-iid:16.0.1] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/play-services-iid-16.0.1.aar/366218fc74909300c3b943956ed8114a/AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-iid:16.0.1] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/play-services-iid-16.0.1.aar/366218fc74909300c3b943956ed8114a/AndroidManifest.xml:26:5-20
+MERGED from [com.google.firebase:firebase-iid:18.0.0] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/firebase-iid-18.0.0.aar/6116818fe3c911535f7ccde5e9358905/AndroidManifest.xml:28:5-45:19
+MERGED from [com.google.firebase:firebase-iid:18.0.0] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/firebase-iid-18.0.0.aar/6116818fe3c911535f7ccde5e9358905/AndroidManifest.xml:28:5-45:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/firebase-iid-interop-16.0.1.aar/7907d904dd9d30d6a8d22cd810022ed9/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/firebase-iid-interop-16.0.1.aar/7907d904dd9d30d6a8d22cd810022ed9/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/aa06f4065a03ba0f16f0a190d8fb1b62/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/aa06f4065a03ba0f16f0a190d8fb1b62/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/play-services-stats-16.0.1.aar/8140556ed9b49070024a5239cd6f555c/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/play-services-stats-16.0.1.aar/8140556ed9b49070024a5239cd6f555c/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-common:17.0.0] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/firebase-common-17.0.0.aar/79eecc2b993037f0831a5dd4b9ef6642/AndroidManifest.xml:11:5-17:19
+MERGED from [com.google.firebase:firebase-common:17.0.0] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/firebase-common-17.0.0.aar/79eecc2b993037f0831a5dd4b9ef6642/AndroidManifest.xml:11:5-17:19
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/e7b5bbeb89d54f5be56893b6653c63aa/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/e7b5bbeb89d54f5be56893b6653c63aa/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-17.0.1.aar/68926b7f8e90c2d5320cb990f3f84ee1/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-17.0.1.aar/68926b7f8e90c2d5320cb990f3f84ee1/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/b41c671c45b95c8ee958639062648ece/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/b41c671c45b95c8ee958639062648ece/AndroidManifest.xml:22:5-26:19
+MERGED from [com.kakao.sdk:auth:1.15.1] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/auth-1.15.1.aar/0ae18450017fd9a7f9bb0ec19dde47f9/AndroidManifest.xml:11:5-20:19
+MERGED from [com.kakao.sdk:auth:1.15.1] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/auth-1.15.1.aar/0ae18450017fd9a7f9bb0ec19dde47f9/AndroidManifest.xml:11:5-20:19
+MERGED from [com.facebook.android:facebook-places:4.34.0] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/facebook-places-4.34.0.aar/a25af5f68b1e52f305090b96c5176d39/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-places:4.34.0] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/facebook-places-4.34.0.aar/a25af5f68b1e52f305090b96c5176d39/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-applinks:4.34.0] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/facebook-applinks-4.34.0.aar/07deab82f802b27b6307bbea8a782527/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-applinks:4.34.0] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/facebook-applinks-4.34.0.aar/07deab82f802b27b6307bbea8a782527/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-messenger:4.34.0] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.34.0.aar/133ae7683ad4dd97173851a0a9faf197/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-messenger:4.34.0] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.34.0.aar/133ae7683ad4dd97173851a0a9faf197/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-marketing:4.34.0] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/facebook-marketing-4.34.0.aar/59b78ff6df40d6c6ca68ca7df86c9945/AndroidManifest.xml:28:5-33:19
+MERGED from [com.facebook.android:facebook-marketing:4.34.0] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/facebook-marketing-4.34.0.aar/59b78ff6df40d6c6ca68ca7df86c9945/AndroidManifest.xml:28:5-33:19
+MERGED from [com.facebook.android:facebook-core:4.34.0] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/facebook-core-4.34.0.aar/0391248b33729968deccdd37a4c14178/AndroidManifest.xml:28:5-51:19
+MERGED from [com.facebook.android:facebook-core:4.34.0] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/facebook-core-4.34.0.aar/0391248b33729968deccdd37a4c14178/AndroidManifest.xml:28:5-51:19
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/9a8d4b6b639573eba9d9811f61928dbd/AndroidManifest.xml:3:3-17
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/9a8d4b6b639573eba9d9811f61928dbd/AndroidManifest.xml:3:3-17
+MERGED from [org.webkit:android-jsc:r174650] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/3a2e2b8254218ac6348b57bd18e9b90f/AndroidManifest.xml:2:3-17
+MERGED from [org.webkit:android-jsc:r174650] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/3a2e2b8254218ac6348b57bd18e9b90f/AndroidManifest.xml:2:3-17
+	android:supportsRtl
+		ADDED from [:react-native-kakao-logins] /Users/dienlee/Documents/rethink-app/node_modules/react-native-kakao-logins/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:9-35
+	android:label
+		ADDED from /Users/dienlee/Documents/rethink-app/android/app/src/main/AndroidManifest.xml:27:9-41
+	android:icon
+		ADDED from /Users/dienlee/Documents/rethink-app/android/app/src/main/AndroidManifest.xml:26:9-43
+	android:allowBackup
+		ADDED from /Users/dienlee/Documents/rethink-app/android/app/src/main/AndroidManifest.xml:25:9-35
+	android:theme
+		ADDED from /Users/dienlee/Documents/rethink-app/android/app/src/main/AndroidManifest.xml:28:9-40
+	android:name
+		ADDED from /Users/dienlee/Documents/rethink-app/android/app/src/main/AndroidManifest.xml:24:9-40
+meta-data#com.dieam.reactnativepushnotification.notification_channel_name
+ADDED from /Users/dienlee/Documents/rethink-app/android/app/src/main/AndroidManifest.xml:30:9-31:38
+	android:value
+		ADDED from /Users/dienlee/Documents/rethink-app/android/app/src/main/AndroidManifest.xml:31:13-36
+	android:name
+		ADDED from /Users/dienlee/Documents/rethink-app/android/app/src/main/AndroidManifest.xml:30:21-99
+meta-data#com.dieam.reactnativepushnotification.notification_channel_description
+ADDED from /Users/dienlee/Documents/rethink-app/android/app/src/main/AndroidManifest.xml:32:9-33:38
+	android:value
+		ADDED from /Users/dienlee/Documents/rethink-app/android/app/src/main/AndroidManifest.xml:33:13-36
+	android:name
+		ADDED from /Users/dienlee/Documents/rethink-app/android/app/src/main/AndroidManifest.xml:32:21-106
+meta-data#com.dieam.reactnativepushnotification.notification_color
+ADDED from /Users/dienlee/Documents/rethink-app/android/app/src/main/AndroidManifest.xml:35:9-36:54
+	android:resource
+		ADDED from /Users/dienlee/Documents/rethink-app/android/app/src/main/AndroidManifest.xml:36:13-52
+	android:name
+		ADDED from /Users/dienlee/Documents/rethink-app/android/app/src/main/AndroidManifest.xml:35:21-92
+receiver#com.google.android.gms.gcm.GcmReceiver
+ADDED from /Users/dienlee/Documents/rethink-app/android/app/src/main/AndroidManifest.xml:39:9-47:20
+	android:exported
+		ADDED from /Users/dienlee/Documents/rethink-app/android/app/src/main/AndroidManifest.xml:41:13-36
+	android:permission
+		ADDED from /Users/dienlee/Documents/rethink-app/android/app/src/main/AndroidManifest.xml:42:13-73
+	android:name
+		ADDED from /Users/dienlee/Documents/rethink-app/android/app/src/main/AndroidManifest.xml:40:13-66
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:com.rethink
+ADDED from /Users/dienlee/Documents/rethink-app/android/app/src/main/AndroidManifest.xml:43:13-46:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from /Users/dienlee/Documents/rethink-app/android/app/src/main/AndroidManifest.xml:44:17-81
+	android:name
+		ADDED from /Users/dienlee/Documents/rethink-app/android/app/src/main/AndroidManifest.xml:44:25-78
+receiver#com.dieam.reactnativepushnotification.modules.RNPushNotificationPublisher
+ADDED from /Users/dienlee/Documents/rethink-app/android/app/src/main/AndroidManifest.xml:50:9-110
+	android:name
+		ADDED from /Users/dienlee/Documents/rethink-app/android/app/src/main/AndroidManifest.xml:50:19-107
+receiver#com.dieam.reactnativepushnotification.modules.RNPushNotificationBootEventReceiver
+ADDED from /Users/dienlee/Documents/rethink-app/android/app/src/main/AndroidManifest.xml:51:9-55:20
+	android:name
+		ADDED from /Users/dienlee/Documents/rethink-app/android/app/src/main/AndroidManifest.xml:51:19-115
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED
+ADDED from /Users/dienlee/Documents/rethink-app/android/app/src/main/AndroidManifest.xml:52:13-54:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from /Users/dienlee/Documents/rethink-app/android/app/src/main/AndroidManifest.xml:53:17-79
+	android:name
+		ADDED from /Users/dienlee/Documents/rethink-app/android/app/src/main/AndroidManifest.xml:53:25-76
+service#com.dieam.reactnativepushnotification.modules.RNPushNotificationRegistrationService
+ADDED from /Users/dienlee/Documents/rethink-app/android/app/src/main/AndroidManifest.xml:56:9-118
+	android:name
+		ADDED from /Users/dienlee/Documents/rethink-app/android/app/src/main/AndroidManifest.xml:56:18-116
+service#com.dieam.reactnativepushnotification.modules.RNPushNotificationListenerServiceGcm
+ADDED from /Users/dienlee/Documents/rethink-app/android/app/src/main/AndroidManifest.xml:59:9-65:19
+	android:exported
+		ADDED from /Users/dienlee/Documents/rethink-app/android/app/src/main/AndroidManifest.xml:61:13-37
+	android:name
+		ADDED from /Users/dienlee/Documents/rethink-app/android/app/src/main/AndroidManifest.xml:60:13-110
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from /Users/dienlee/Documents/rethink-app/android/app/src/main/AndroidManifest.xml:62:13-64:29
+activity#com.rethink.MainActivity
+ADDED from /Users/dienlee/Documents/rethink-app/android/app/src/main/AndroidManifest.xml:68:9-94:20
+	android:label
+		ADDED from /Users/dienlee/Documents/rethink-app/android/app/src/main/AndroidManifest.xml:71:13-45
+	android:launchMode
+		ADDED from /Users/dienlee/Documents/rethink-app/android/app/src/main/AndroidManifest.xml:72:13-43
+	android:configChanges
+		ADDED from /Users/dienlee/Documents/rethink-app/android/app/src/main/AndroidManifest.xml:70:13-83
+	android:name
+		ADDED from /Users/dienlee/Documents/rethink-app/android/app/src/main/AndroidManifest.xml:69:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/dienlee/Documents/rethink-app/android/app/src/main/AndroidManifest.xml:73:13-76:29
+action#android.intent.action.MAIN
+ADDED from /Users/dienlee/Documents/rethink-app/android/app/src/main/AndroidManifest.xml:74:17-69
+	android:name
+		ADDED from /Users/dienlee/Documents/rethink-app/android/app/src/main/AndroidManifest.xml:74:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/dienlee/Documents/rethink-app/android/app/src/main/AndroidManifest.xml:75:17-77
+	android:name
+		ADDED from /Users/dienlee/Documents/rethink-app/android/app/src/main/AndroidManifest.xml:75:27-74
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:45.76.55.157+data:host:45.76.55.157+data:pathPrefix:/deep-linking/reset-password+data:pathPrefix:/deep-linking/timetable+data:scheme:http+data:scheme:http
+ADDED from /Users/dienlee/Documents/rethink-app/android/app/src/main/AndroidManifest.xml:78:13-92:29
+action#android.intent.action.VIEW
+ADDED from /Users/dienlee/Documents/rethink-app/android/app/src/main/AndroidManifest.xml:79:17-69
+	android:name
+		ADDED from /Users/dienlee/Documents/rethink-app/android/app/src/main/AndroidManifest.xml:79:25-66
+category#android.intent.category.DEFAULT
+ADDED from /Users/dienlee/Documents/rethink-app/android/app/src/main/AndroidManifest.xml:81:17-76
+	android:name
+		ADDED from /Users/dienlee/Documents/rethink-app/android/app/src/main/AndroidManifest.xml:81:27-73
+category#android.intent.category.BROWSABLE
+ADDED from /Users/dienlee/Documents/rethink-app/android/app/src/main/AndroidManifest.xml:82:17-78
+	android:name
+		ADDED from /Users/dienlee/Documents/rethink-app/android/app/src/main/AndroidManifest.xml:82:27-75
+data
+ADDED from /Users/dienlee/Documents/rethink-app/android/app/src/main/AndroidManifest.xml:84:17-87:45
+	android:host
+		ADDED from /Users/dienlee/Documents/rethink-app/android/app/src/main/AndroidManifest.xml:85:21-48
+	android:scheme
+		ADDED from /Users/dienlee/Documents/rethink-app/android/app/src/main/AndroidManifest.xml:87:21-42
+	android:pathPrefix
+		ADDED from /Users/dienlee/Documents/rethink-app/android/app/src/main/AndroidManifest.xml:86:21-65
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/dienlee/Documents/rethink-app/android/app/src/main/AndroidManifest.xml:95:9-86
+MERGED from [:react-native-code-push] /Users/dienlee/Documents/rethink-app/node_modules/react-native-code-push/android/app/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:9-86
+MERGED from [:react-native-code-push] /Users/dienlee/Documents/rethink-app/node_modules/react-native-code-push/android/app/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:9-86
+	android:name
+		ADDED from /Users/dienlee/Documents/rethink-app/android/app/src/main/AndroidManifest.xml:95:19-83
+meta-data#com.facebook.sdk.ApplicationId
+ADDED from /Users/dienlee/Documents/rethink-app/android/app/src/main/AndroidManifest.xml:97:9-99:55
+	android:value
+		ADDED from /Users/dienlee/Documents/rethink-app/android/app/src/main/AndroidManifest.xml:99:13-52
+	android:name
+		ADDED from /Users/dienlee/Documents/rethink-app/android/app/src/main/AndroidManifest.xml:98:13-58
+meta-data#com.kakao.sdk.AppKey
+ADDED from /Users/dienlee/Documents/rethink-app/android/app/src/main/AndroidManifest.xml:100:9-102:53
+MERGED from [:react-native-kakao-logins] /Users/dienlee/Documents/rethink-app/node_modules/react-native-kakao-logins/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:9-21:53
+MERGED from [:react-native-kakao-logins] /Users/dienlee/Documents/rethink-app/node_modules/react-native-kakao-logins/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:9-21:53
+	android:value
+		ADDED from /Users/dienlee/Documents/rethink-app/android/app/src/main/AndroidManifest.xml:102:13-50
+	android:name
+		ADDED from /Users/dienlee/Documents/rethink-app/android/app/src/main/AndroidManifest.xml:101:13-48
+uses-sdk
+INJECTED from /Users/dienlee/Documents/rethink-app/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/dienlee/Documents/rethink-app/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/dienlee/Documents/rethink-app/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-image-crop-picker] /Users/dienlee/Documents/rethink-app/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:6:5-8:41
+MERGED from [:react-native-image-crop-picker] /Users/dienlee/Documents/rethink-app/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:6:5-8:41
+MERGED from [:react-native-wheel-picker-android] /Users/dienlee/Documents/rethink-app/node_modules/@delightfulstudio/react-native-wheel-picker-android/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-wheel-picker-android] /Users/dienlee/Documents/rethink-app/node_modules/@delightfulstudio/react-native-wheel-picker-android/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-code-push] /Users/dienlee/Documents/rethink-app/node_modules/react-native-code-push/android/app/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-code-push] /Users/dienlee/Documents/rethink-app/node_modules/react-native-code-push/android/app/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-svg] /Users/dienlee/Documents/rethink-app/node_modules/react-native-svg/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-svg] /Users/dienlee/Documents/rethink-app/node_modules/react-native-svg/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-push-notification] /Users/dienlee/Documents/rethink-app/node_modules/react-native-push-notification/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-push-notification] /Users/dienlee/Documents/rethink-app/node_modules/react-native-push-notification/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-gcm:16.1.0] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/play-services-gcm-16.1.0.aar/5697c66c2669c7a464606d2ab8ddbf2a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gcm:16.1.0] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/play-services-gcm-16.1.0.aar/5697c66c2669c7a464606d2ab8ddbf2a/AndroidManifest.xml:20:5-44
+MERGED from [:react-native-background-timer] /Users/dienlee/Documents/rethink-app/node_modules/react-native-background-timer/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-background-timer] /Users/dienlee/Documents/rethink-app/node_modules/react-native-background-timer/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-share] /Users/dienlee/Documents/rethink-app/node_modules/react-native-share/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-share] /Users/dienlee/Documents/rethink-app/node_modules/react-native-share/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-view-shot] /Users/dienlee/Documents/rethink-app/node_modules/react-native-view-shot/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-view-shot] /Users/dienlee/Documents/rethink-app/node_modules/react-native-view-shot/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-kakao-logins] /Users/dienlee/Documents/rethink-app/node_modules/react-native-kakao-logins/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-kakao-logins] /Users/dienlee/Documents/rethink-app/node_modules/react-native-kakao-logins/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-fbsdk] /Users/dienlee/Documents/rethink-app/node_modules/react-native-fbsdk/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:24:5-26:41
+MERGED from [:react-native-fbsdk] /Users/dienlee/Documents/rethink-app/node_modules/react-native-fbsdk/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:24:5-26:41
+MERGED from [:react-native-vector-icons] /Users/dienlee/Documents/rethink-app/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /Users/dienlee/Documents/rethink-app/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.55.4] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/6ad1b4739a3ce13036809805e8ee8ddb/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.55.4] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/6ad1b4739a3ce13036809805e8ee8ddb/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.yalantis:ucrop:2.2.2-native] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.2-native.aar/1f39ddd63c713bcd08a60b66bf657ebe/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.yalantis:ucrop:2.2.2-native] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.2-native.aar/1f39ddd63c713bcd08a60b66bf657ebe/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.android:facebook-android-sdk:4.34.0] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.34.0.aar/0aebdb4cb82df9de2091a3922e994cdb/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-android-sdk:4.34.0] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.34.0.aar/0aebdb4cb82df9de2091a3922e994cdb/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-login:4.34.0] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/facebook-login-4.34.0.aar/1efe53779c18fb02e350ea6747644c15/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-login:4.34.0] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/facebook-login-4.34.0.aar/1efe53779c18fb02e350ea6747644c15/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-share:4.34.0] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/facebook-share-4.34.0.aar/000135874fb82f2b58a7b599523092a2/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-share:4.34.0] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/facebook-share-4.34.0.aar/000135874fb82f2b58a7b599523092a2/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-common:4.34.0] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/facebook-common-4.34.0.aar/d5970100ecc9b6ceefcba764442b1c87/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-common:4.34.0] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/facebook-common-4.34.0.aar/d5970100ecc9b6ceefcba764442b1c87/AndroidManifest.xml:24:5-26:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/927b9839c34bd0ab1eb19538687dc919/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/927b9839c34bd0ab1eb19538687dc919/AndroidManifest.xml:20:5-44
+MERGED from [cn.aigestudio.wheelpicker:WheelPicker:1.1.2] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/WheelPicker-1.1.2.aar/1af789ede53ff8fa19b5fc63423f6d99/AndroidManifest.xml:8:5-10:41
+MERGED from [cn.aigestudio.wheelpicker:WheelPicker:1.1.2] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/WheelPicker-1.1.2.aar/1af789ede53ff8fa19b5fc63423f6d99/AndroidManifest.xml:8:5-10:41
+MERGED from [me.leolin:ShortcutBadger:1.1.8] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.8.aar/8d7458619b49c45245ab194249bea1f4/AndroidManifest.xml:7:5-9:41
+MERGED from [me.leolin:ShortcutBadger:1.1.8] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.8.aar/8d7458619b49c45245ab194249bea1f4/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-messaging:18.0.0] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/firebase-messaging-18.0.0.aar/2b3464c9de537ebf3a5f1bb81b0514f7/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:18.0.0] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/firebase-messaging-18.0.0.aar/2b3464c9de537ebf3a5f1bb81b0514f7/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-iid:16.0.1] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/play-services-iid-16.0.1.aar/366218fc74909300c3b943956ed8114a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-iid:16.0.1] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/play-services-iid-16.0.1.aar/366218fc74909300c3b943956ed8114a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:18.0.0] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/firebase-iid-18.0.0.aar/6116818fe3c911535f7ccde5e9358905/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:18.0.0] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/firebase-iid-18.0.0.aar/6116818fe3c911535f7ccde5e9358905/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/firebase-iid-interop-16.0.1.aar/7907d904dd9d30d6a8d22cd810022ed9/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/firebase-iid-interop-16.0.1.aar/7907d904dd9d30d6a8d22cd810022ed9/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/aa06f4065a03ba0f16f0a190d8fb1b62/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/aa06f4065a03ba0f16f0a190d8fb1b62/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/play-services-stats-16.0.1.aar/8140556ed9b49070024a5239cd6f555c/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/play-services-stats-16.0.1.aar/8140556ed9b49070024a5239cd6f555c/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:17.0.0] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/firebase-common-17.0.0.aar/79eecc2b993037f0831a5dd4b9ef6642/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-common:17.0.0] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/firebase-common-17.0.0.aar/79eecc2b993037f0831a5dd4b9ef6642/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/e7b5bbeb89d54f5be56893b6653c63aa/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/e7b5bbeb89d54f5be56893b6653c63aa/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-17.0.1.aar/68926b7f8e90c2d5320cb990f3f84ee1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-17.0.1.aar/68926b7f8e90c2d5320cb990f3f84ee1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/b41c671c45b95c8ee958639062648ece/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/b41c671c45b95c8ee958639062648ece/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/f6745063fbb6c68dceff74b33ce8457a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/f6745063fbb6c68dceff74b33ce8457a/AndroidManifest.xml:20:5-44
+MERGED from [com.kakao.sdk:usermgmt:1.15.1] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/usermgmt-1.15.1.aar/d704a4094bfacbc647f431d44608450c/AndroidManifest.xml:10:5-12:41
+MERGED from [com.kakao.sdk:usermgmt:1.15.1] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/usermgmt-1.15.1.aar/d704a4094bfacbc647f431d44608450c/AndroidManifest.xml:10:5-12:41
+MERGED from [com.kakao.sdk:auth:1.15.1] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/auth-1.15.1.aar/0ae18450017fd9a7f9bb0ec19dde47f9/AndroidManifest.xml:7:5-9:41
+MERGED from [com.kakao.sdk:auth:1.15.1] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/auth-1.15.1.aar/0ae18450017fd9a7f9bb0ec19dde47f9/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/320f8934a9521835aa1cf40bd60675c0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/320f8934a9521835aa1cf40bd60675c0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/701ee1e21bb52afdef9ff77897c4cd5c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/701ee1e21bb52afdef9ff77897c4cd5c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/83a6101bc93c5ca6789cc4fd042cae5b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/83a6101bc93c5ca6789cc4fd042cae5b/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.android:facebook-places:4.34.0] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/facebook-places-4.34.0.aar/a25af5f68b1e52f305090b96c5176d39/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-places:4.34.0] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/facebook-places-4.34.0.aar/a25af5f68b1e52f305090b96c5176d39/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-applinks:4.34.0] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/facebook-applinks-4.34.0.aar/07deab82f802b27b6307bbea8a782527/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-applinks:4.34.0] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/facebook-applinks-4.34.0.aar/07deab82f802b27b6307bbea8a782527/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-messenger:4.34.0] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.34.0.aar/133ae7683ad4dd97173851a0a9faf197/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-messenger:4.34.0] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.34.0.aar/133ae7683ad4dd97173851a0a9faf197/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-marketing:4.34.0] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/facebook-marketing-4.34.0.aar/59b78ff6df40d6c6ca68ca7df86c9945/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-marketing:4.34.0] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/facebook-marketing-4.34.0.aar/59b78ff6df40d6c6ca68ca7df86c9945/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-core:4.34.0] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/facebook-core-4.34.0.aar/0391248b33729968deccdd37a4c14178/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-core:4.34.0] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/facebook-core-4.34.0.aar/0391248b33729968deccdd37a4c14178/AndroidManifest.xml:24:5-26:41
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/27ca049e199a53951474eda75da27c00/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/27ca049e199a53951474eda75da27c00/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/86a9690163329c3fa87ecd67cabd23cb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/86a9690163329c3fa87ecd67cabd23cb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/64b8363d349a384d389d762ed6793d33/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/64b8363d349a384d389d762ed6793d33/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:27.0.2] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/customtabs-27.0.2.aar/630a8130da7f19501b6bc79132e64b57/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:27.0.2] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/customtabs-27.0.2.aar/630a8130da7f19501b6bc79132e64b57/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/91982462854dbf84e3ff1e05998a2aff/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/91982462854dbf84e3ff1e05998a2aff/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.0.2.aar/bbdbae46bbbe742fc1b294ad12e881d0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.0.2.aar/bbdbae46bbbe742fc1b294ad12e881d0/AndroidManifest.xml:20:5-44
+MERGED from [com.kakao.sdk:network:1.15.1] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/network-1.15.1.aar/a2e4bb198da55fcd52035bfdb54acbab/AndroidManifest.xml:7:5-9:41
+MERGED from [com.kakao.sdk:network:1.15.1] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/network-1.15.1.aar/a2e4bb198da55fcd52035bfdb54acbab/AndroidManifest.xml:7:5-9:41
+MERGED from [com.kakao.sdk:common:1.15.1] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/common-1.15.1.aar/e44611190febddb829a94bf7faa1b752/AndroidManifest.xml:7:5-9:41
+MERGED from [com.kakao.sdk:common:1.15.1] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/common-1.15.1.aar/e44611190febddb829a94bf7faa1b752/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/ea852e11cca2a0b07cb12ae05f930c6f/AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/ea852e11cca2a0b07cb12ae05f930c6f/AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fresco:fresco:1.3.0] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/fresco-1.3.0.aar/625a8643e98912b294bfc37a3fbabf12/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.3.0] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/fresco-1.3.0.aar/625a8643e98912b294bfc37a3fbabf12/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.3.0.aar/e14f13904306f4330b6a8ca3c6e8d83b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.3.0.aar/e14f13904306f4330b6a8ca3c6e8d83b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/9a8d4b6b639573eba9d9811f61928dbd/AndroidManifest.xml:2:3-70
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/9a8d4b6b639573eba9d9811f61928dbd/AndroidManifest.xml:2:3-70
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/459f8f5504fe2d569e79380fe610bd44/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/459f8f5504fe2d569e79380fe610bd44/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/afade1b85764829c2bff596c762cf042/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/afade1b85764829c2bff596c762cf042/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:drawee:1.3.0] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/drawee-1.3.0.aar/efe0b16f00518ce42c71cf1d8d1a48d5/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.3.0] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/drawee-1.3.0.aar/efe0b16f00518ce42c71cf1d8d1a48d5/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.3.0.aar/b17d7b50521509f62760596d651275fb/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.3.0.aar/b17d7b50521509f62760596d651275fb/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.3.0.aar/901a06f7029c2774dfda8cd83f8c9b20/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.3.0.aar/901a06f7029c2774dfda8cd83f8c9b20/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.3.0] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/fbcore-1.3.0.aar/96942aae9f384aa14a9121bd770fa864/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.3.0] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/fbcore-1.3.0.aar/96942aae9f384aa14a9121bd770fa864/AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/eb18e8cf68eedbe509341fa3b36dfb58/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/eb18e8cf68eedbe509341fa3b36dfb58/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/f68833ee5d43c0335db25d8215a8849d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/f68833ee5d43c0335db25d8215a8849d/AndroidManifest.xml:20:5-44
+MERGED from [com.kakao.sdk:util:1.15.1] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/util-1.15.1.aar/153472fd439b9bb85e6bb4de66a83467/AndroidManifest.xml:10:5-12:41
+MERGED from [com.kakao.sdk:util:1.15.1] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/util-1.15.1.aar/153472fd439b9bb85e6bb4de66a83467/AndroidManifest.xml:10:5-12:41
+INJECTED from /Users/dienlee/Documents/rethink-app/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/dienlee/Documents/rethink-app/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/dienlee/Documents/rethink-app/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/dienlee/Documents/rethink-app/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/dienlee/Documents/rethink-app/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/dienlee/Documents/rethink-app/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/dienlee/Documents/rethink-app/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/dienlee/Documents/rethink-app/android/app/src/main/AndroidManifest.xml
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from /Users/dienlee/Documents/rethink-app/android/app/src/main/AndroidManifest.xml:110:13-113:52
+MERGED from [:react-native-image-crop-picker] /Users/dienlee/Documents/rethink-app/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:13-20:58
+MERGED from [:react-native-image-crop-picker] /Users/dienlee/Documents/rethink-app/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:13-20:58
+	android:resource
+		ADDED from /Users/dienlee/Documents/rethink-app/android/app/src/main/AndroidManifest.xml:112:17-50
+		REJECTED from [:react-native-image-crop-picker] /Users/dienlee/Documents/rethink-app/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:20:17-55
+	tools:replace
+		ADDED from /Users/dienlee/Documents/rethink-app/android/app/src/main/AndroidManifest.xml:113:17-49
+	android:name
+		ADDED from /Users/dienlee/Documents/rethink-app/android/app/src/main/AndroidManifest.xml:111:17-67
+activity#com.yalantis.ucrop.UCropActivity
+ADDED from [:react-native-image-crop-picker] /Users/dienlee/Documents/rethink-app/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:23:9-25:72
+	android:theme
+		ADDED from [:react-native-image-crop-picker] /Users/dienlee/Documents/rethink-app/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:25:13-69
+	android:name
+		ADDED from [:react-native-image-crop-picker] /Users/dienlee/Documents/rethink-app/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:24:13-60
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.android.gms:play-services-gcm:16.1.0] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/play-services-gcm-16.1.0.aar/5697c66c2669c7a464606d2ab8ddbf2a/AndroidManifest.xml:23:5-82
+MERGED from [com.google.android.gms:play-services-iid:16.0.1] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/play-services-iid-16.0.1.aar/366218fc74909300c3b943956ed8114a/AndroidManifest.xml:23:5-82
+MERGED from [com.google.android.gms:play-services-iid:16.0.1] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/play-services-iid-16.0.1.aar/366218fc74909300c3b943956ed8114a/AndroidManifest.xml:23:5-82
+MERGED from [com.google.firebase:firebase-iid:18.0.0] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/firebase-iid-18.0.0.aar/6116818fe3c911535f7ccde5e9358905/AndroidManifest.xml:26:5-82
+MERGED from [com.google.firebase:firebase-iid:18.0.0] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/firebase-iid-18.0.0.aar/6116818fe3c911535f7ccde5e9358905/AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-gcm:16.1.0] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/play-services-gcm-16.1.0.aar/5697c66c2669c7a464606d2ab8ddbf2a/AndroidManifest.xml:23:22-79
+activity#com.kakao.auth.authorization.authcode.KakaoWebViewActivity
+ADDED from [:react-native-kakao-logins] /Users/dienlee/Documents/rethink-app/node_modules/react-native-kakao-logins/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:23:9-28:20
+MERGED from [com.kakao.sdk:auth:1.15.1] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/auth-1.15.1.aar/0ae18450017fd9a7f9bb0ec19dde47f9/AndroidManifest.xml:12:9-19:20
+MERGED from [com.kakao.sdk:auth:1.15.1] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/auth-1.15.1.aar/0ae18450017fd9a7f9bb0ec19dde47f9/AndroidManifest.xml:12:9-19:20
+	android:label
+		ADDED from [com.kakao.sdk:auth:1.15.1] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/auth-1.15.1.aar/0ae18450017fd9a7f9bb0ec19dde47f9/AndroidManifest.xml:16:13-59
+	android:launchMode
+		ADDED from [:react-native-kakao-logins] /Users/dienlee/Documents/rethink-app/node_modules/react-native-kakao-logins/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:26:13-43
+	android:windowSoftInputMode
+		ADDED from [:react-native-kakao-logins] /Users/dienlee/Documents/rethink-app/node_modules/react-native-kakao-logins/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:27:13-55
+	android:exported
+		ADDED from [:react-native-kakao-logins] /Users/dienlee/Documents/rethink-app/node_modules/react-native-kakao-logins/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:25:13-37
+	android:configChanges
+		ADDED from [com.kakao.sdk:auth:1.15.1] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/auth-1.15.1.aar/0ae18450017fd9a7f9bb0ec19dde47f9/AndroidManifest.xml:14:13-59
+	android:name
+		ADDED from [:react-native-kakao-logins] /Users/dienlee/Documents/rethink-app/node_modules/react-native-kakao-logins/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:24:13-86
+activity#com.facebook.FacebookActivity
+ADDED from [com.facebook.android:facebook-common:4.34.0] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/facebook-common-4.34.0.aar/d5970100ecc9b6ceefcba764442b1c87/AndroidManifest.xml:29:9-32:66
+	android:configChanges
+		ADDED from [com.facebook.android:facebook-common:4.34.0] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/facebook-common-4.34.0.aar/d5970100ecc9b6ceefcba764442b1c87/AndroidManifest.xml:31:13-96
+	android:theme
+		ADDED from [com.facebook.android:facebook-common:4.34.0] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/facebook-common-4.34.0.aar/d5970100ecc9b6ceefcba764442b1c87/AndroidManifest.xml:32:13-63
+	android:name
+		ADDED from [com.facebook.android:facebook-common:4.34.0] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/facebook-common-4.34.0.aar/d5970100ecc9b6ceefcba764442b1c87/AndroidManifest.xml:30:13-57
+activity#com.facebook.CustomTabMainActivity
+ADDED from [com.facebook.android:facebook-common:4.34.0] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/facebook-common-4.34.0.aar/d5970100ecc9b6ceefcba764442b1c87/AndroidManifest.xml:33:9-71
+	android:name
+		ADDED from [com.facebook.android:facebook-common:4.34.0] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/facebook-common-4.34.0.aar/d5970100ecc9b6ceefcba764442b1c87/AndroidManifest.xml:33:19-68
+activity#com.facebook.CustomTabActivity
+ADDED from [com.facebook.android:facebook-common:4.34.0] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/facebook-common-4.34.0.aar/d5970100ecc9b6ceefcba764442b1c87/AndroidManifest.xml:34:9-67
+	android:name
+		ADDED from [com.facebook.android:facebook-common:4.34.0] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/facebook-common-4.34.0.aar/d5970100ecc9b6ceefcba764442b1c87/AndroidManifest.xml:34:19-64
+uses-permission#com.sec.android.provider.badge.permission.READ
+ADDED from [me.leolin:ShortcutBadger:1.1.8] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.8.aar/8d7458619b49c45245ab194249bea1f4/AndroidManifest.xml:19:5-86
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.8] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.8.aar/8d7458619b49c45245ab194249bea1f4/AndroidManifest.xml:19:22-83
+uses-permission#com.sec.android.provider.badge.permission.WRITE
+ADDED from [me.leolin:ShortcutBadger:1.1.8] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.8.aar/8d7458619b49c45245ab194249bea1f4/AndroidManifest.xml:20:5-87
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.8] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.8.aar/8d7458619b49c45245ab194249bea1f4/AndroidManifest.xml:20:22-84
+uses-permission#com.htc.launcher.permission.READ_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.8] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.8.aar/8d7458619b49c45245ab194249bea1f4/AndroidManifest.xml:23:5-81
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.8] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.8.aar/8d7458619b49c45245ab194249bea1f4/AndroidManifest.xml:23:22-78
+uses-permission#com.htc.launcher.permission.UPDATE_SHORTCUT
+ADDED from [me.leolin:ShortcutBadger:1.1.8] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.8.aar/8d7458619b49c45245ab194249bea1f4/AndroidManifest.xml:24:5-83
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.8] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.8.aar/8d7458619b49c45245ab194249bea1f4/AndroidManifest.xml:24:22-80
+uses-permission#com.sonyericsson.home.permission.BROADCAST_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.8] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.8.aar/8d7458619b49c45245ab194249bea1f4/AndroidManifest.xml:27:5-88
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.8] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.8.aar/8d7458619b49c45245ab194249bea1f4/AndroidManifest.xml:27:22-85
+uses-permission#com.sonymobile.home.permission.PROVIDER_INSERT_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.8] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.8.aar/8d7458619b49c45245ab194249bea1f4/AndroidManifest.xml:28:5-92
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.8] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.8.aar/8d7458619b49c45245ab194249bea1f4/AndroidManifest.xml:28:22-89
+uses-permission#com.anddoes.launcher.permission.UPDATE_COUNT
+ADDED from [me.leolin:ShortcutBadger:1.1.8] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.8.aar/8d7458619b49c45245ab194249bea1f4/AndroidManifest.xml:31:5-84
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.8] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.8.aar/8d7458619b49c45245ab194249bea1f4/AndroidManifest.xml:31:22-81
+uses-permission#com.majeur.launcher.permission.UPDATE_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.8] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.8.aar/8d7458619b49c45245ab194249bea1f4/AndroidManifest.xml:34:5-83
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.8] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.8.aar/8d7458619b49c45245ab194249bea1f4/AndroidManifest.xml:34:22-80
+uses-permission#com.huawei.android.launcher.permission.CHANGE_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.8] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.8.aar/8d7458619b49c45245ab194249bea1f4/AndroidManifest.xml:37:5-91
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.8] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.8.aar/8d7458619b49c45245ab194249bea1f4/AndroidManifest.xml:37:22-88
+uses-permission#com.huawei.android.launcher.permission.READ_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.8] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.8.aar/8d7458619b49c45245ab194249bea1f4/AndroidManifest.xml:38:5-92
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.8] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.8.aar/8d7458619b49c45245ab194249bea1f4/AndroidManifest.xml:38:22-89
+uses-permission#com.huawei.android.launcher.permission.WRITE_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.8] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.8.aar/8d7458619b49c45245ab194249bea1f4/AndroidManifest.xml:39:5-93
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.8] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.8.aar/8d7458619b49c45245ab194249bea1f4/AndroidManifest.xml:39:22-90
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:18.0.0] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/firebase-messaging-18.0.0.aar/2b3464c9de537ebf3a5f1bb81b0514f7/AndroidManifest.xml:28:9-34:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:18.0.0] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/firebase-messaging-18.0.0.aar/2b3464c9de537ebf3a5f1bb81b0514f7/AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:18.0.0] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/firebase-messaging-18.0.0.aar/2b3464c9de537ebf3a5f1bb81b0514f7/AndroidManifest.xml:29:13-82
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:18.0.0] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/firebase-messaging-18.0.0.aar/2b3464c9de537ebf3a5f1bb81b0514f7/AndroidManifest.xml:31:13-33:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-messaging:18.0.0] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/firebase-messaging-18.0.0.aar/2b3464c9de537ebf3a5f1bb81b0514f7/AndroidManifest.xml:31:28-51
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:18.0.0] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/firebase-messaging-18.0.0.aar/2b3464c9de537ebf3a5f1bb81b0514f7/AndroidManifest.xml:32:17-78
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:18.0.0] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/firebase-messaging-18.0.0.aar/2b3464c9de537ebf3a5f1bb81b0514f7/AndroidManifest.xml:32:25-75
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-iid:18.0.0] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/firebase-iid-18.0.0.aar/6116818fe3c911535f7ccde5e9358905/AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:18.0.0] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/firebase-iid-18.0.0.aar/6116818fe3c911535f7ccde5e9358905/AndroidManifest.xml:22:22-76
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-iid:18.0.0] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/firebase-iid-18.0.0.aar/6116818fe3c911535f7ccde5e9358905/AndroidManifest.xml:29:9-35:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:18.0.0] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/firebase-iid-18.0.0.aar/6116818fe3c911535f7ccde5e9358905/AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:18.0.0] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/firebase-iid-18.0.0.aar/6116818fe3c911535f7ccde5e9358905/AndroidManifest.xml:30:13-84
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:18.0.0] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/firebase-iid-18.0.0.aar/6116818fe3c911535f7ccde5e9358905/AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:18.0.0] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/firebase-iid-18.0.0.aar/6116818fe3c911535f7ccde5e9358905/AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:18.0.0] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/firebase-iid-18.0.0.aar/6116818fe3c911535f7ccde5e9358905/AndroidManifest.xml:33:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:18.0.0] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/firebase-iid-18.0.0.aar/6116818fe3c911535f7ccde5e9358905/AndroidManifest.xml:37:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:18.0.0] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/firebase-iid-18.0.0.aar/6116818fe3c911535f7ccde5e9358905/AndroidManifest.xml:39:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:18.0.0] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/firebase-iid-18.0.0.aar/6116818fe3c911535f7ccde5e9358905/AndroidManifest.xml:40:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:18.0.0] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/firebase-iid-18.0.0.aar/6116818fe3c911535f7ccde5e9358905/AndroidManifest.xml:38:13-78
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/aa06f4065a03ba0f16f0a190d8fb1b62/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/aa06f4065a03ba0f16f0a190d8fb1b62/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/aa06f4065a03ba0f16f0a190d8fb1b62/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/aa06f4065a03ba0f16f0a190d8fb1b62/AndroidManifest.xml:24:13-79
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:17.0.0] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/firebase-common-17.0.0.aar/79eecc2b993037f0831a5dd4b9ef6642/AndroidManifest.xml:12:9-16:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:17.0.0] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/firebase-common-17.0.0.aar/79eecc2b993037f0831a5dd4b9ef6642/AndroidManifest.xml:14:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:17.0.0] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/firebase-common-17.0.0.aar/79eecc2b993037f0831a5dd4b9ef6642/AndroidManifest.xml:15:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:17.0.0] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/firebase-common-17.0.0.aar/79eecc2b993037f0831a5dd4b9ef6642/AndroidManifest.xml:16:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:17.0.0] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/firebase-common-17.0.0.aar/79eecc2b993037f0831a5dd4b9ef6642/AndroidManifest.xml:13:13-77
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.0.1] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/b41c671c45b95c8ee958639062648ece/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/b41c671c45b95c8ee958639062648ece/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/b41c671c45b95c8ee958639062648ece/AndroidManifest.xml:24:13-58
+provider#com.facebook.marketing.internal.MarketingInitProvider
+ADDED from [com.facebook.android:facebook-marketing:4.34.0] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/facebook-marketing-4.34.0.aar/59b78ff6df40d6c6ca68ca7df86c9945/AndroidManifest.xml:29:9-32:40
+	android:authorities
+		ADDED from [com.facebook.android:facebook-marketing:4.34.0] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/facebook-marketing-4.34.0.aar/59b78ff6df40d6c6ca68ca7df86c9945/AndroidManifest.xml:31:13-73
+	android:exported
+		ADDED from [com.facebook.android:facebook-marketing:4.34.0] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/facebook-marketing-4.34.0.aar/59b78ff6df40d6c6ca68ca7df86c9945/AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-marketing:4.34.0] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/facebook-marketing-4.34.0.aar/59b78ff6df40d6c6ca68ca7df86c9945/AndroidManifest.xml:30:13-81
+provider#com.facebook.internal.FacebookInitProvider
+ADDED from [com.facebook.android:facebook-core:4.34.0] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/facebook-core-4.34.0.aar/0391248b33729968deccdd37a4c14178/AndroidManifest.xml:39:9-42:40
+	android:authorities
+		ADDED from [com.facebook.android:facebook-core:4.34.0] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/facebook-core-4.34.0.aar/0391248b33729968deccdd37a4c14178/AndroidManifest.xml:41:13-72
+	android:exported
+		ADDED from [com.facebook.android:facebook-core:4.34.0] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/facebook-core-4.34.0.aar/0391248b33729968deccdd37a4c14178/AndroidManifest.xml:42:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-core:4.34.0] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/facebook-core-4.34.0.aar/0391248b33729968deccdd37a4c14178/AndroidManifest.xml:40:13-70
+receiver#com.facebook.CurrentAccessTokenExpirationBroadcastReceiver
+ADDED from [com.facebook.android:facebook-core:4.34.0] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/facebook-core-4.34.0.aar/0391248b33729968deccdd37a4c14178/AndroidManifest.xml:44:9-50:20
+	android:exported
+		ADDED from [com.facebook.android:facebook-core:4.34.0] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/facebook-core-4.34.0.aar/0391248b33729968deccdd37a4c14178/AndroidManifest.xml:46:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-core:4.34.0] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/facebook-core-4.34.0.aar/0391248b33729968deccdd37a4c14178/AndroidManifest.xml:45:13-86
+intent-filter#action:name:com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED
+ADDED from [com.facebook.android:facebook-core:4.34.0] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/facebook-core-4.34.0.aar/0391248b33729968deccdd37a4c14178/AndroidManifest.xml:47:13-49:29
+action#com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED
+ADDED from [com.facebook.android:facebook-core:4.34.0] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/facebook-core-4.34.0.aar/0391248b33729968deccdd37a4c14178/AndroidManifest.xml:48:17-95
+	android:name
+		ADDED from [com.facebook.android:facebook-core:4.34.0] /Users/dienlee/.gradle/caches/transforms-1/files-1.1/facebook-core-4.34.0.aar/0391248b33729968deccdd37a4c14178/AndroidManifest.xml:48:25-92
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /Users/dienlee/Documents/rethink-app/android/app/src/main/AndroidManifest.xml:1:1-119:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /Users/dienlee/Documents/rethink-app/android/app/src/main/AndroidManifest.xml:1:1-119:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE

@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/dienlee/Documents/rethink-app/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zh/values-zh.xml",
+            "map": [
+                {
+                    "source": "/Users/dienlee/.gradle/caches/transforms-1/files-1.1/WheelPicker-1.1.2.aar/1af789ede53ff8fa19b5fc63423f6d99/res/values-zh/values-zh.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,89,125",
+                        "endColumns": "33,35,34",
+                        "endOffsets": "84,120,155"
+                    }
+                },
+                {
+                    "source": "/Users/dienlee/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.2-native.aar/1f39ddd63c713bcd08a60b66bf657ebe/res/values-zh/values-zh.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,109,163",
+                        "endColumns": "53,53,46",
+                        "endOffsets": "104,158,205"
+                    },
+                    "to": {
+                        "startLines": "5,6,7",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "160,214,268",
+                        "endColumns": "53,53,46",
+                        "endOffsets": "209,263,310"
+                    }
+                }
+            ]
+        }
+    ]
+}

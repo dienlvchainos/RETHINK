@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "48915161251",
+    "firebase_url": "https://rethink-20190527.firebaseio.com",
+    "project_id": "rethink-20190527",
+    "storage_bucket": "rethink-20190527.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:48915161251:android:88f193c9163f9afa",
+        "android_client_info": {
+          "package_name": "com.rethink"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "48915161251-fnfhoiqdvovj4h5hqet2m9lj186hs883.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQWVOLaWaj4X_RDgwBem-T3XhS0GbdFWc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "48915161251-fnfhoiqdvovj4h5hqet2m9lj186hs883.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

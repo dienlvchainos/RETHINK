@@ -1,0 +1,4 @@
+#Tue Jun 11 12:12:43 ICT 2019
+base.0=/Users/dienlee/Documents/rethink-app/android/app/build/intermediates/dex/debug/mergeDexDebug/out
+path.0=classes.dex
+renamed.0=classes.dex

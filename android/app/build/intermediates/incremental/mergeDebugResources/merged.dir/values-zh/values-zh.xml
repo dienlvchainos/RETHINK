@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Day">日</string>
+    <string name="Month">月</string>
+    <string name="Year">年</string>
+    <string name="ucrop_label_edit_photo">裁剪</string>
+    <string name="ucrop_label_original">原始比例</string>
+    <string name="ucrop_menu_crop">裁剪</string>
+</resources>
